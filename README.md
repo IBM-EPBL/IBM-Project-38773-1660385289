@@ -7,7 +7,7 @@
 
 **Team Leader:** Indhumathi C
 
-**Team Members:** Dharshini P, Jeyagomathi S,Kaviya S
+**Team Members:** Dharshini P, Jeyagomathi S, Kaviya S
 
 
 ### About The Project
