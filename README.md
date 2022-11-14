@@ -1,13 +1,13 @@
 # IBM-Project-38773-1660385289
 ## AI based discourse for Banking Industry
 ### Technology: Artificial Intelligence
-Team ID: PNT2022TMID51074
+**Team ID:** PNT2022TMID51074
 
-Batch: B1-1M3E
+**Batch:** B1-1M3E
 
-Team Leader: Indhumathi C
+**Team Leader:** Indhumathi C
 
-Team Members: Dharshini P, Jeyagomathi S,Kaviya S
+**Team Members:** Dharshini P, Jeyagomathi S,Kaviya S
 
 
 ### About The Project
