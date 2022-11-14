@@ -29,6 +29,7 @@ Project Objectives:
 Services Used:
  IBM Watson Assistant
  
+
  Technical Architecture:
  
 ![191175131-9a5742fc-a728-4282-83d5-74d4c2dc7035](https://user-images.githubusercontent.com/113333882/201577398-d7cd8e9c-2eb1-4022-a4a4-2c3aed795d6f.png)
