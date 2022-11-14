@@ -1,6 +1,6 @@
 # IBM-Project-38773-1660385289
-##AI based discourse for Banking Industry
-###Technology: Artificial Intelligence
+## AI based discourse for Banking Industry
+### Technology: Artificial Intelligence
 Team ID: PNT2022TMID51074
 
 Batch: B1-1M3E
